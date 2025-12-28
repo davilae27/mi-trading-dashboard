@@ -1,0 +1,7 @@
+pandas
+pandas_ta
+requests
+plotly
+streamlit-autorefresh
+gspread
+google-auth
